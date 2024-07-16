@@ -1,5 +1,5 @@
 ## Hi there 👋
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=HELLO&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=HELLO&fontAlign=30&fontSize=30&descAlign=60&descAlignY=50&theme=radical)
 <!--
 **kimminchol1/kimminchol1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

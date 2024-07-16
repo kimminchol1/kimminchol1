@@ -1,6 +1,6 @@
 
 🖥️Hi there! I'm AI S/W developer using Python. 🖥️
-
+🚆
 
 
 ![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1&hide_rank=true&line_height=20px)

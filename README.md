@@ -3,7 +3,7 @@
 
 
 
-![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1\&rank_icon=None)
+![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1\&rank_icon=Null)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminchol1&layout=compact)
 
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>

@@ -12,11 +12,14 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
 
-<img src="https://img.shields.io/badge/DJango-2496ED?style=flat-square&logo=DJango&logoColor=white">
+<img src="https://img.shields.io/badge/DJango-000000?style=flat-square&logo=DJango&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
+
+<img src="https://img.shields.io/badge/Linux-3DDC84?style=for-the-badge&logo=Linux&logoColor=white">
+<img src="https://img.shields.io/badge/Ubuntu-3DDC84?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimminchol1/kimminchol1.git%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)

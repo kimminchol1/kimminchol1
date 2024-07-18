@@ -1,6 +1,9 @@
 <div align="center">
 
 🖥️Hi there! I'm AI S/W developer using Python. 🖥️
+</br>
+</br>
+</br>
 🚆
 
 

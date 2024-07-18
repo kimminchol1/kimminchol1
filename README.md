@@ -12,7 +12,6 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
 <img src="https://img.shields.io/badge/Apache-F8DC75?style=for-the-badge&logo=Apache&logoColor=black"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
-
 <img src="https://img.shields.io/badge/DJango-000000?style=for-the-badge&logo=DJango&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">

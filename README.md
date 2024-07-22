@@ -38,13 +38,15 @@ Hi there! I'm AI S/W developer using Python.
 
 
 ## 🚆 OS
+
 <img src="https://img.shields.io/badge/Windows-0E85CD?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 
-## Contact
+## 📮 Contact
 
 <img src="https://img.shields.io/badge/Kimminchol1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimminchol1/kimminchol1.git%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

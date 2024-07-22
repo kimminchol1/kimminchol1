@@ -4,20 +4,21 @@
 </br>
 </br>
 </br>
-🚆
 
-## ✔️ Status
+
+## 🚆 Status
 
 ![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1&hide_rank=true&line_height=20px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminchol1&layout=compact)
 
 
-## ✔️ Stacks
+## 🚆 Back-End Stacks
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> <img src="https://img.shields.io/badge/Mysql-E6B91E?style=for-the-badge&logo=MySql&logoColor=black"> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
 <img src="https://img.shields.io/badge/FireBase-DD2C00?style=for-the-badge&logo=FireBase&logoColor=white">
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 
+## 🚆 Framework Stacks
 <img src="https://img.shields.io/badge/Apache-F8DC75?style=for-the-badge&logo=Apache&logoColor=black"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/DJango-000000?style=for-the-badge&logo=DJango&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">

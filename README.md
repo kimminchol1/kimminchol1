@@ -1,6 +1,6 @@
 <div align="center">
 
-🖥️Hi there! I'm AI S/W developer using Python. 🖥️
+Hi there! I'm AI S/W developer using Python.
 </br>
 </br>
 </br>
@@ -19,7 +19,7 @@
 <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 
-## 🚆 Back-End Stacks
+## 🚆 Languages
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"> 
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">
@@ -44,6 +44,10 @@
 <img src="https://img.shields.io/badge/Window-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+
+## Contact
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white">
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/kimminchol1/kimminchol1.git%2Fgjbae1212%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>

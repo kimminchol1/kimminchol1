@@ -6,10 +6,6 @@ Hi there! I'm AI S/W developer using Python.
 </br>
 
 
-## 🚆 Status
-
-![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1&hide_rank=true&line_height=20px)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminchol1&layout=compact)
 
 
 ## 🚆 Languages
@@ -42,6 +38,13 @@ Hi there! I'm AI S/W developer using Python.
 <img src="https://img.shields.io/badge/Windows-0E85CD?style=for-the-badge&logo=windows&logoColor=white">
 <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black">
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white">
+
+
+## 🚆 Status
+
+![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1&hide_rank=true&line_height=20px)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminchol1&layout=compact)
+
 
 ## 📮 Contact
 

@@ -5,7 +5,7 @@
 </br>
 </br>
 
-## 📚 Skills
+## 📚 Tech Stacks 📚 
 
 #### Languages
 
@@ -41,13 +41,13 @@
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white">
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
 
-## 🚆 Status
+## 🚆 Status 🚆
 
 ![Mincheol's GitHub stats](https://github-readme-stats-git-addprogressrankicon-rickstaa.vercel.app/api?username=kimminchol1&hide_rank=true&line_height=20px)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimminchol1&layout=compact)
 
 
-## 📮 Contact Me
+## 📮 Contact Me 📮
 
 <img src="https://img.shields.io/badge/Kimminchol1@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </br>

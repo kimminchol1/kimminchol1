@@ -23,11 +23,11 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=Anaconda&logoColor=white">
 
-#### Framework & Server Stacks
+// #### Framework & Server Stacks
 
 <img src="https://img.shields.io/badge/DJango-000000?style=for-the-badge&logo=DJango&logoColor=white">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-<img src="https://img.shields.io/badge/Apache-F8DC75?style=for-the-badge&logo=Apache&logoColor=black"> 
+<img src="https://img.shields.io/badge/Apache-F8DC75?style=for-the-badge&logo=Apache&logoColor=black"> //
 
 
 #### OS

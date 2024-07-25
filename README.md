@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=HI)
+![header](https://capsule-render.vercel.app/api?type=venom&height=200&text=HI&animation=fadeIn)
 
 🙋‍♂️Hi there! I'm AI S/W developer using Python.
 </br>
